@@ -28,7 +28,6 @@ This is a landing page for a website with a modern and responsive design.
 
 * HTML
 * CSS
-* (Optional) JavaScript (if any functionalities require it)
 
 ## Contact
 
